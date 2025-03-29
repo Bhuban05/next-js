@@ -101,7 +101,7 @@ const onSubmit = async (data:z.infer<typeof signUpSchema>) =>{
         <div className="text-center">
           <h1 className="text-4xl  font-extrabold  tracking-tight  lg:text-5xl mb-6"> join social eco  </h1>
 
-          <p className="mb-4 text-2xl  font-bold  ">sign up to start your anonymous adventure</p>
+          <p className="mb-4 text-2xl  font-bold ">sign up to start your anonymous adventure</p>
         
 
       <Form {...form}>

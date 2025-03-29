@@ -54,7 +54,7 @@ function VerifyAccount() {
                     <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl mb-6">Verify Your Account</h1>
                     <p className="mb-4  font-bold">Enter the verification code sent to your email address</p>
                 </div>
-
+4
                 <Form {...form}>
                     <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
                         <FormField
